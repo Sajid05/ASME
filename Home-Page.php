@@ -59,14 +59,17 @@
                 <div class="col-12">
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
-                        <a href="#welcome" class="logo">Edu Right</a>
+                        <a href="#welcome" class="logo">ASME IUT</a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
                             <li class="scroll-to-section"><a href="#welcome" class="active">Home</a></li>
                             <li class="scroll-to-section"><a href="#about">About Us</a></li>
-                            <li class="scroll-to-section"><a href="#about2">Sponsorship</a></li>
-                            <li class="scroll-to-section"><a href="#services">Scholarship</a></li>
+                            <li class="scroll-to-section"><a href="">Executive Committee</a></li>
+                            <li class="scroll-to-section"><a href="">Events</a></li>
+                            <li class="scroll-to-section"><a href="">Vlogs</a></li>
+                            <li class="scroll-to-section"><a href="">About IUT</a></li>
+                            <li class="scroll-to-section"><a href="">Contact Us</a></li>
                         </ul>
                         <a class='menu-trigger'>
                             <span>Menu</span>
@@ -82,7 +85,10 @@
 
     <!-- ***** Welcome Area Start ***** -->
     <div class="welcome-area" id="welcome">
-
+        <video autoplay loop muted>
+            <source src="./assets/videos/EMIT__Connections_Plexus.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
         <!-- ***** Header Text Start ***** -->
         <div class="header-text">
             <div class="container">
